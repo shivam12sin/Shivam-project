@@ -5,7 +5,7 @@ import java.sql.SQLException;
 
 public class Main {
     public static void main(String[] args) {
-        String url="jdbc:mysql://localhost:3306/Students";
+        String url="jdbc:mysql://localhost:3306/quizdb";
 
 
         String username="root";
