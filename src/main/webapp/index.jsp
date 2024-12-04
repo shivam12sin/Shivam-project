@@ -1,4 +1,12 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%
+   if(session.getAttribute("name")==null){
+        response.sendRedirect("register.jsp");}
+
+%>
+
+<%@
+
+page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,37 +19,37 @@
 
     <!-- Custom CSS -->
     <style>
-        body { background-color:   #f8f9fa; }
+        body { background-color: #f8f9fa; }
 
         .nav-bar-main {
             background-color: #007bff;
         }
 
-        .navbar-brand , .nav-link { color : white; }
+        .navbar-brand, .nav-link { color: white; }
 
         .nav-link:hover { color: #d4d4d4; }
 
-        .welcome-msg-sec   {
+        .welcome-msg-sec {
             padding: 100px 0;
-            text-align : center;
-            background-color:   #343a40;
-            color: white ;
+            text-align: center;
+            background-color: #343a40;
+            color: white;
         }
 
-        .start-quiz-btn  {
+        .start-quiz-btn {
             margin-top: 30px;
         }
 
         .quiz-heading-sec {
-            text-align :center;
-            margin-bottom:   40px;
+            text-align: center;
+            margin-bottom: 40px;
         }
 
         .footer-sec {
             padding: 20px 0;
             background-color: #007bff;
             color: white;
-            text-align : center;
+            text-align: center;
         }
 
         .quiz-card-body {
