@@ -130,7 +130,7 @@
                 </div>
                 <div class="card-body">
                     <p>Access your quizzes here.</p>
-                    <a href="quizzes.jsp" class="btn btn-success">View Quizzes</a>
+                    <a href="viewQuizzes.jsp" class="btn btn-success">View Quizzes</a>
                 </div>
             </div>
         </div>

@@ -135,7 +135,7 @@
                     <a class="nav-link active" href="#">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="quiz.jsp">Quizzes</a>
+                    <a class="nav-link" href="viewQuizzes.jsp">Quizzes</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="leaderboard.jsp">Leaderboard</a>

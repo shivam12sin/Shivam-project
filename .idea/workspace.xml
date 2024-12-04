@@ -5,41 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8c2be60-7938-478e-8dcd-e0b2c96a6052" name="Changes" comment="checking">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.smarttomcat/untitled/conf/catalina.policy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.smarttomcat/untitled/conf/catalina.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.smarttomcat/untitled/conf/context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.smarttomcat/untitled/conf/jaspic-providers.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.smarttomcat/untitled/conf/jaspic-providers.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.smarttomcat/untitled/conf/logging.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.smarttomcat/untitled/conf/server.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.smarttomcat/untitled/conf/tomcat-users.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.smarttomcat/untitled/conf/tomcat-users.xsd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.smarttomcat/untitled/conf/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/backend/Controllers/LoginFormServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/backend/Controllers/MyServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/backend/Controllers/RegisterFormservlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/in/sp/backend/Controllers/RegistrationServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/Dashboard.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/quiz-master.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/adminDashboard.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/manageQuizzes.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/profile.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/register.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/studentDashboard.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/submit_quiz.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/succes.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/take_quiz.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/teacherDashboard.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/viewQuizzes.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/logout.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/Dashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/Dashboard.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/studentDashboard.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/studentDashboard.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +137,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733311152362</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="checking">
+      <option name="closed" value="true" />
+      <created>1733311201715</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1733311201715</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
